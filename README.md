@@ -1,4 +1,4 @@
-###Hi there 👋
+Hi there 👋
 
 I am a UI/UX designer and a student at 42 School in Madrid, passionate about creating seamless and visually appealing user experiences. I have a keen interest in the intersection of design and web development. My journey in the design world involves exploring various technologies, such as HTML, CSS, JavaScript, and frameworks like React, to craft engaging and user-friendly interfaces.
 
