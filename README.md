@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a UI/UX designer and a student at 42 Madrid, passionate about creating seamless and visually appealing user experiences. I have a keen interest in the intersection of design and web development.
+I am a digital product designer and a student at 42 Madrid, passionate about creating seamless and visually appealing user experiences. I have a keen interest in the intersection of design and web development.
 
 ✨ Quick Facts
 
