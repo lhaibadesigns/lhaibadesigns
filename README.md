@@ -18,7 +18,7 @@
 }
 ```
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-171b21?style=flat&logo=c&logoColor=white" alt="C language" height="30"/>
+  <img src="https://img.shields.io/badge/-C%20Language-171b21?style=flat&logo=c&logoColor=white" alt="C Language" height="30"/>
   <img src="https://img.shields.io/badge/-HTML5-171b21?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
   <img src="https://img.shields.io/badge/-CSS3-171b21?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30"/>
   <img src="https://img.shields.io/badge/-JavaScript-171b21?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="30"/>
