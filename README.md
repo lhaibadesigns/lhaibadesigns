@@ -1,15 +1,20 @@
-Hi there 👋
+Name: Amine El Haiba
+Located_in: Madrid, Spain
+Current_job: Graphic & UI/UX designer
 
-I am a digital product designer and a student at 42 Madrid, passionate about creating seamless and visually appealing user experiences. I have a keen interest in the intersection of design and web development.
 
-✨ Quick Facts
-
-- 🌱 I’m currently learning C language
-- 🔭 I’m currently working on libft project (C language)
-- 💬 Ask me about anything related to C & SHELL. (After googling it 😜)
-- ⚡ Fun fact: My first line of code was not "Hello World!"
-- 📫 How to reach me: contact@lhaiba.es
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+Fields_of_interests:
+  [
+    "Web Development",
+    "XR design",
+    "Mobile design",
+    "UI/UX design",
+    "Motion graphic design",
+  ]
+Achievements:
+  [
+    "Top talent of Adobe Awards 2019"
+  ]
+  
+Currently_learning: ["Java script, Css, and React Native"]
+Hobbies: ["Poker", "Music producing", "Fishing", "Architectural design", "Learning new things"]
