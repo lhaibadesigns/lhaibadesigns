@@ -9,3 +9,5 @@ I am a digital product designer and a student at 42 Madrid, passionate about cre
 - 💬 Ask me about anything related to C & SHELL. (After googling it 😜)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me: contact@lhaiba.es
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhaibadesigns)](https://github.com/anuraghazra/github-readme-stats)
