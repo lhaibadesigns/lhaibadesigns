@@ -18,14 +18,14 @@
 }
 ```
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white" alt="C" height="30"/>
-  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
-  <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/badge/-Makefile-000000?style=flat&logo=makefile&logoColor=white" alt="Makefile" height="30"/>
-  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" height="30"/>
-  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" height="30"/>
-  <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" height="30"/>
-  <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-000000?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" height="30"/>
-  <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white" alt="Figma" height="30"/>
+  <img src="https://img.shields.io/badge/-C-2D333B?style=flat&logo=c&logoColor=white" alt="C" height="30"/>
+  <img src="https://img.shields.io/badge/-HTML5-2D333B?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/-CSS3-2D333B?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+  <img src="https://img.shields.io/badge/-JavaScript-2D333B?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/-Makefile-2D333B?style=flat&logo=makefile&logoColor=white" alt="Makefile" height="30"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-2D333B?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" height="30"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-2D333B?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" height="30"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-2D333B?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" height="30"/>
+  <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-2D333B?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" height="30"/>
+  <img src="https://img.shields.io/badge/-Figma-2D333B?style=flat&logo=figma&logoColor=white" alt="Figma" height="30"/>
 </p>
