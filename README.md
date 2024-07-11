@@ -1,4 +1,4 @@
-Name: Amine El Haiba
+"Name: Amine El Haiba
 Located_in: Madrid, Spain
 Current_job: Graphic & UI/UX designer
 
@@ -17,4 +17,4 @@ Achievements:
   ]
   
 Currently_learning: ["Java script, Css, and React Native"]
-Hobbies: ["Poker", "Music producing", "Fishing", "Architectural design", "Learning new things"]
+Hobbies: ["Poker", "Music producing", "Fishing", "Architectural design", "Learning new things"]"
