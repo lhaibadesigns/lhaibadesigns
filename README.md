@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lhaibadesigns)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 Hi there 👋
 
 I am a digital product designer and a student at 42 Madrid, passionate about creating seamless and visually appealing user experiences. I have a keen interest in the intersection of design and web development.
@@ -13,6 +10,6 @@ I am a digital product designer and a student at 42 Madrid, passionate about cre
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me: contact@lhaiba.es
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lhaibadesigns&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lhaibadesigns&show_icons=true&theme=dark#gh-dark-mode-only)]
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
