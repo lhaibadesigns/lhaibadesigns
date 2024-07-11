@@ -17,13 +17,15 @@
   "Hobbies": ["Poker", "Music producing", "Fishing", "Architectural design", "Learning new things"]
 }
 ```
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)
-![Makefile](https://img.shields.io/badge/-Makefile-000000?style=flat&logo=makefile&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000000?style=flat&logo=adobe-after-effects&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Makefile-000000?style=flat&logo=makefile&logoColor=white" alt="Makefile" />
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-000000?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white" alt="Figma" />
+</p>
