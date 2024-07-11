@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/-Makefile-000000?style=flat&logo=makefile&logoColor=white" alt="Makefile" width="150"/>
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" width="150"/>
   <img src="https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" width="150"/>
-  <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" width="100"/>
-  <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-000000?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" 
+  <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" width="150"/>
+  <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-000000?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" width="150"/>
+  <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white" alt="Figma" width="150"/>
 </p>
 
