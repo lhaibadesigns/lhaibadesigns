@@ -14,3 +14,5 @@ I am a digital product designer and a student at 42 Madrid, passionate about cre
 - 📫 How to reach me: contact@lhaiba.es
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lhaibadesigns&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
