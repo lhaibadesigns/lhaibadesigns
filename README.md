@@ -10,4 +10,5 @@ I am a digital product designer and a student at 42 Madrid, passionate about cre
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me: contact@lhaiba.es
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhaibadesigns&show_icons=true&bg_color=1C2128)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
