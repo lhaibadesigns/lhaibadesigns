@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lhaibadesigns)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 Hi there 👋
 
 I am a digital product designer and a student at 42 Madrid, passionate about creating seamless and visually appealing user experiences. I have a keen interest in the intersection of design and web development.
