@@ -13,6 +13,6 @@
   "Achievements": [
     "Top talent of Adobe Awards 2019"
   ],
-  "Currently_learning": ["JavaScript", "CSS", "React Native". "Node js"],
+  "Currently_learning": ["JavaScript", "CSS", "React Native" "Node js"],
   "Hobbies": ["Poker", "Music producing", "Fishing", "Architectural design", "Learning new things"]
 }
