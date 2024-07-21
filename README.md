@@ -5,7 +5,7 @@
   "Current_job": "Graphic & UI/UX designer",
   "Fields_of_interests": [
     "Web Development",
-    "XR design",
+    "VR/AR/XR design",
     "Mobile design",
     "UI/UX design",
     "Motion graphic design"
