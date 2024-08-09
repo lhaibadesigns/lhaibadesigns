@@ -6,7 +6,7 @@
   "Fields_of_interests": [
     "Web Development",
     "VR/AR/XR design",
-    "Mobile design",
+    "Graphic design",
     "UI/UX design",
     "Motion graphic design"
   ],
@@ -14,7 +14,7 @@
     "Top talent of Adobe Awards 2019"
   ],
   "Currently_learning": ["C", "CSS", "Next.js", "HTML"]
-  "Hobbies": ["Poker", "Music producing", "Fishing", "Architectural design", "Learning new things"]
+  "Hobbies": ["Poker", "Music producing", "Fishing"]
 }
 ```
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
